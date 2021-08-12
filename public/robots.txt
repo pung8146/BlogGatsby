@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://pung8146.github.io/sitemap/sitemap-index.xml
+Host: https://pung8146.github.io
